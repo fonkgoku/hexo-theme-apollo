@@ -1,7 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    GitHub: https://github.com/plck
+    GitHub: https://github.com
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -15,7 +15,7 @@ cloudTie:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: XX-XXXXXXXX-X
 
 # Copyright Infomation
 startyear: 2015
